@@ -82,6 +82,9 @@ ImageNet dataset:
 | Puzzle Mix   | √       | 78.76     | -          |
 | ResizeMix    | ×       | 79.00     | 80.54      |
 
+## Model Weight
+The pre-trained weights can be find in [models](https://drive.google.com/file/d/1mCfiEMDVSH3fYRrCLwfOdaX5e9du9mok/view?usp=share_link).
+
 ## Citation
 
 If you find this repository/work helpful in your research, welcome to cite it.
