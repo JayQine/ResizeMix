@@ -1,4 +1,4 @@
-# ResizeMix
+# ResizeMix: Mixing Data with Preserved Object Information and True Labels
 Implementation of ResizeMix. Our implementation is based on repository: [dali-pytorch](https://github.com/JaminFong/dali-pytorch).
 
 ## Abstract
